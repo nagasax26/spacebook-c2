@@ -1,0 +1,56 @@
+.posts {
+    padding: 10px;
+}
+
+.post {
+    display: block;
+    width: 57%;
+    background-color: #eee;
+    padding: 15px 0;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, .3);
+    margin-right: 80px;
+}
+
+.remove {
+    display: inline-block;
+    font-size: 30px;
+    color: rgba(17, 17, 17, .6);
+}
+
+.remove:hover {
+    cursor: pointer;
+    color: #DD0C0C;
+}
+
+.remove-comment {
+    display: inline-block;
+    font-size: 16px;
+    color: rgba(17, 17, 17, .6);
+}
+
+.remove-comment:hover {
+    cursor: pointer;
+    color: #DD0C0C;
+}
+
+
+
+.feature_button {
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+    color: rgba(17, 17, 17, .6);
+}
+
+.feature_button:hover {
+    cursor: pointer;
+    color: #1e8bff;
+}
+
+.content {
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    color: rgba(17, 17, 17, .6);
+}
